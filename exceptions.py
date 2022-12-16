@@ -1,4 +1,5 @@
 # IndexError
+
 try:
     item = items[6]
     print(item)
@@ -17,3 +18,11 @@ def divide_by(a, b):
 
 ans = divide_by(10,0)
 print(ans)
+
+# FileNotFoundError
+
+try:
+    with open('file_does_not_exist.txt', 'r') as file:
+        print(file.read())
+except:
+    print("Unable to locate file")  
