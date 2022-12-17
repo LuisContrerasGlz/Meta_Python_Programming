@@ -1,5 +1,5 @@
 # IndexError
-
+items = [1,2,3,4]
 try:
     item = items[6]
     print(item)

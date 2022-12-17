@@ -24,4 +24,17 @@ def constainsDuplicate(elements):
         return True
   return False
 
+# O(log n) - Logarithmic runtime, E.G binary search
+
+# O(n log n) - Linearithmic runtime, Most sorting algorithms have a runtime complexity of O(n log n)
+
+# O(2^n ) - Exponential runtime, ecursive solution for finding Fibonacci numbers.
+
+def fibonacci(num):
+      if (num <= 1):
+        return 1
+
+      return fibonacci(num - 2) + fibonacci(num - 1)
+
+# O(n!) - Factorial runtime, Any algorithm that performs permutation on a given data set is an example of O(n!)
 
