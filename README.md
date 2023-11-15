@@ -5,4 +5,4 @@ This project contains the problem sets and projects from [Meta Programming with 
 
 ![Screenshot Index](./img/cert.png)
 
-For more certifications and complete profile please check my LinkedIn: https://www.linkedin.com/in/luis-francisco-contreras-gonzalez-45791715a/
+For more certifications and complete profile please check my LinkedIn page: https://www.linkedin.com/in/luis-contreras-gonzalez/
